@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = itisalfred@gmail.com
+	name = alfred de Vilmorin
